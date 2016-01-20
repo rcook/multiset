@@ -1,4 +1,4 @@
-# `multiset` [![Build Status](https://travis-ci.org/twanvl/multiset.svg?branch=master)](https://travis-ci.org/twanvl/multiset)
+# `multiset` [![Build Status](https://travis-ci.org/rcook/multiset.svg?branch=p-rcook-dev)](https://travis-ci.org/rcook/multiset)
 
 The `Data.Multiset` and `Data.IntMultiset` container types for Haskell.
 
